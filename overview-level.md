@@ -24,7 +24,7 @@
       </tr>
       <tr>
          <td class="url" colspan="2">
-            <a href="https://github.com/tboenig/gt_structure_5_3">https://github.com/tboenig/gt_structure_5_3</a>
+            <a href="https://github.com/OCR-D/tboenig/gt_structure_5_3">https://github.com/OCR-D/tboenig/gt_structure_5_3</a>
          </td>
       </tr>
       <tr>
